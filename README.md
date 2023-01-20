@@ -6,8 +6,10 @@ Requirements
 
 Python 3.x
 Keras (can be installed via pip install keras)
+
 How to Use
-Run the script by typing python script.py in the command line.
+
+Run the script by typing python numpred.py in the command line.
 The script will prompt you to enter numbers between 1 and 10.
 Enter as many numbers as you want, when finished type done to end the input.
 The script will use the numbers you entered to train a model and predict the next number in the sequence.
